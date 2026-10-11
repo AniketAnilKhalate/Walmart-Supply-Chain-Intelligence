@@ -59,3 +59,5 @@ Data validation, data modelling, data transformation, DAX measures, interactive 
 
 The dataset is part of the M5 Forecasting competition hosted on Kaggle: https://www.kaggle.com/competitions/m5-forecasting-accuracy
 ## Dashboard Preview
+<img width="615" height="345" alt="walmart_dashboard" src="https://github.com/user-attachments/assets/39e4ae08-c23f-45d1-b792-674e35c46d36" />
+
