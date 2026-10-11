@@ -42,7 +42,6 @@ The data includes historical unit sales, calendar information, and weekly sellin
 
 - `powerbi/` — Power BI report
 - `sql/` — SQL validation and analysis scripts
-- `data/` — Dataset documentation
 - `screenshots/` — Dashboard screenshots
 
 ## Key Skills Demonstrated
@@ -59,3 +58,4 @@ Data validation, data modelling, data transformation, DAX measures, interactive 
 ## Data Source
 
 The dataset is part of the M5 Forecasting competition hosted on Kaggle: https://www.kaggle.com/competitions/m5-forecasting-accuracy
+## Dashboard Preview
